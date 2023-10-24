@@ -1,8 +1,12 @@
-const { log } = require("console");
 const express = require("express");
 const fs = require("fs");
 const app = express();
 const port = 4000;
+
+app.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  next();
+});
 
 app.get("/get-json", (req, res) => {
   const jsonFilePath = "./data/podcast-list.json";
