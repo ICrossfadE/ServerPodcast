@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for server-podcast on 2023-10-24T17:21:38+03:00
+# fly.toml app configuration file generated for podcast-server on 2023-10-24T17:55:12+03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "server-podcast"
+app = "podcast-server"
 primary_region = "waw"
 
 [build]
