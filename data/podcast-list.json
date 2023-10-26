@@ -5,8 +5,8 @@
     "details": {
       "title": "Product Design",
       "author": "James Carlson",
-      "episode": 1,
-      "season": 2,
+      "episode": 3,
+      "season": 3,
       "img": "author-3",
       "audioSrc": "Industrial-Design-Podcast"
     }
@@ -18,7 +18,7 @@
       "title": "Web Designer",
       "author": "James Anderson",
       "episode": 1,
-      "season": 2,
+      "season": 1,
       "img": "author-1",
       "audioSrc": "Becca-Luna"
     }
@@ -30,7 +30,7 @@
       "title": "Busness Strategy",
       "author": "Robert Brown",
       "episode": 1,
-      "season": 2,
+      "season": 9,
       "img": "author-2",
       "audioSrc": "A-Plan-Is-Not-a-Strategy"
     }
@@ -41,7 +41,7 @@
     "details": {
       "title": "Success Story",
       "author": "William Taylor",
-      "episode": 1,
+      "episode": 4,
       "season": 2,
       "img": "author-7",
       "audioSrc": "How-to-make-Trading-a-Career"
@@ -53,7 +53,7 @@
     "details": {
       "title": "News in music",
       "author": "Ava Martinez",
-      "episode": 1,
+      "episode": 7,
       "season": 2,
       "img": "author-4",
       "audioSrc": "How-to-create"
@@ -65,8 +65,8 @@
     "details": {
       "title": "Self Improvment",
       "author": "Mia Thomas",
-      "episode": 1,
-      "season": 2,
+      "episode": 3,
+      "season": 4,
       "img": "author-6",
       "audioSrc": "ELIMINATE-NEGATIVE-THINKING"
     }
@@ -77,7 +77,7 @@
     "details": {
       "title": "Grafix Designer",
       "author": "Daniel Lee",
-      "episode": 1,
+      "episode": 2,
       "season": 2,
       "img": "author-9",
       "audioSrc": "Secret-to-Running-a-$1-Million"
@@ -90,7 +90,7 @@
       "title": "Product Design",
       "author": "Harper Adams",
       "episode": 1,
-      "season": 2,
+      "season": 6,
       "img": "author-8",
       "audioSrc": "Being-a-versatile-product-designer"
     }
@@ -117,6 +117,330 @@
       "season": 2,
       "img": "author-12",
       "audioSrc": "The-programing-language"
+    }
+  },
+  {
+    "theme": "music",
+    "id": 11,
+    "details": {
+      "title": "Tunes",
+      "author": "Sarah Johnson",
+      "episode": 2,
+      "season": 1,
+      "img": "author-13",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 12,
+    "details": {
+      "title": "Sounds of the",
+      "author": "Michael Smith",
+      "episode": 6,
+      "season": 3,
+      "img": "author-14",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 13,
+    "details": {
+      "title": "Harmony Unplugged",
+      "author": "Emily Davis",
+      "episode": 6,
+      "season": 2,
+      "img": "author-15",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 14,
+    "details": {
+      "title": "Rock Legends Revisited",
+      "author": "David Wilson",
+      "episode": 7,
+      "season": 3,
+      "img": "author-16",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 15,
+    "details": {
+      "title": "Global Gro",
+      "author": "Jessica Brown",
+      "episode": 4,
+      "season": 4,
+      "img": "author-17",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 16,
+    "details": {
+      "title": "Jazz Jour",
+      "author": "Christopher Lee",
+      "episode": 1,
+      "season": 1,
+      "img": "author-18",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 17,
+    "details": {
+      "title": "Indie Spotlight: Discover",
+      "author": "Jennifer Clark",
+      "episode": 10,
+      "season": 1,
+      "img": "author-19",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "music",
+    "id": 18,
+    "details": {
+      "title": "DJ",
+      "author": "William Taylor",
+      "episode": 8,
+      "season": 2,
+      "img": "author-20",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "technology",
+    "id": 19,
+    "details": {
+      "title": "Future Forward",
+      "author": "Amanda Williams",
+      "episode": 7,
+      "season": 2,
+      "img": "author-21",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "technology",
+    "id": 20,
+    "details": {
+      "title": "Tech Talk Chronicles",
+      "author": "Christopher Taylor",
+      "episode": 1,
+      "season": 1,
+      "img": "author-22",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "technology",
+    "id": 21,
+    "details": {
+      "title": "Silicon Insights",
+      "author": "Jessica Davis",
+      "episode": 1,
+      "season": 5,
+      "img": "author-23",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 22,
+    "details": {
+      "title": "Profitable Pioneers",
+      "author": "Nicole Johnson",
+      "episode": 1,
+      "season": 9,
+      "img": "author-24",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 23,
+    "details": {
+      "title": "The Entrepreneur's Edge",
+      "author": "Kevin Smith",
+      "episode": 1,
+      "season": 9,
+      "img": "author-25",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 24,
+    "details": {
+      "title": "Market Movers Unleashed",
+      "author": "Emily Davis",
+      "episode": 1,
+      "season": 9,
+      "img": "author-26",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 25,
+    "details": {
+      "title": "Start-Up Stories",
+      "author": "Daniel Wilson",
+      "episode": 1,
+      "season": 9,
+      "img": "author-27",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 26,
+    "details": {
+      "title": "The Business Blueprint",
+      "author": "Megan Brown",
+      "episode": 1,
+      "season": 9,
+      "img": "author-28",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 27,
+    "details": {
+      "title": "Financial Insights",
+      "author": "Christopher Lee",
+      "episode": 1,
+      "season": 9,
+      "img": "author-29",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 28,
+    "details": {
+      "title": "Workplace Warriors",
+      "author": "Amanda Clark",
+      "episode": 1,
+      "season": 9,
+      "img": "author-30",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "business",
+    "id": 29,
+    "details": {
+      "title": "Small Business Spotlight",
+      "author": "Benjamin Taylor",
+      "episode": 1,
+      "season": 9,
+      "img": "author-31",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 30,
+    "details": {
+      "title": "Self Improvment",
+      "author": "Rachel Martin",
+      "episode": 3,
+      "season": 4,
+      "img": "author-32",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 31,
+    "details": {
+      "title": "Momentum Moments",
+      "author": "Joshua Anderson",
+      "episode": 3,
+      "season": 4,
+      "img": "author-33",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 32,
+    "details": {
+      "title": "Fuel Your Fire",
+      "author": "Samantha Roberts",
+      "episode": 3,
+      "season": 4,
+      "img": "author-34",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 33,
+    "details": {
+      "title": "Motivation Station",
+      "author": "Matthew Baker",
+      "episode": 3,
+      "season": 4,
+      "img": "author-35",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 34,
+    "details": {
+      "title": "Dream Chasers Unite",
+      "author": "Lauren Mitchell",
+      "episode": 3,
+      "season": 4,
+      "img": "author-36",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 35,
+    "details": {
+      "title": "Mindset Mastery",
+      "author": "Daniel Thompson",
+      "episode": 3,
+      "season": 4,
+      "img": "author-37",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 36,
+    "details": {
+      "title": "Motivated Minds",
+      "author": "Emily Hernandez",
+      "episode": 3,
+      "season": 4,
+      "img": "author-38",
+      "audioSrc": ""
+    }
+  },
+  {
+    "theme": "motivation",
+    "id": 37,
+    "details": {
+      "title": "Rise and Shine",
+      "author": "Andrew Foster",
+      "episode": 3,
+      "season": 4,
+      "img": "author-39",
+      "audioSrc": ""
     }
   }
 ]
